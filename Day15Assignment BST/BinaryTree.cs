@@ -60,6 +60,26 @@ namespace Day15Assignment_BST
             TraversePreorder(root.RightNode);
 
         }
+        public bool SearchBST(Node root, int value)
+        {
+            if (root == null)
+            {
+                return false;
+            }
+            if (root.data == value)
+            {
+                return true;
+            }
+            else if (root.data > value)
+            {
+                return SearchBST(root.LeftNode, value);
+            }
+            else
+            {
+                return SearchBST(root.RightNode, value);
+            }
 
+
+        }
     }
 }
