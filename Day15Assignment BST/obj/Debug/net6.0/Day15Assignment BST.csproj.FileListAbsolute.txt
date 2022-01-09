@@ -1,0 +1,15 @@
+D:\downloads\abc\C# day15 Assignment\Day15Assignment BST\Day15Assignment BST\bin\Debug\net6.0\Day15Assignment BST.exe
+D:\downloads\abc\C# day15 Assignment\Day15Assignment BST\Day15Assignment BST\bin\Debug\net6.0\Day15Assignment BST.deps.json
+D:\downloads\abc\C# day15 Assignment\Day15Assignment BST\Day15Assignment BST\bin\Debug\net6.0\Day15Assignment BST.runtimeconfig.json
+D:\downloads\abc\C# day15 Assignment\Day15Assignment BST\Day15Assignment BST\bin\Debug\net6.0\Day15Assignment BST.dll
+D:\downloads\abc\C# day15 Assignment\Day15Assignment BST\Day15Assignment BST\bin\Debug\net6.0\ref\Day15Assignment BST.dll
+D:\downloads\abc\C# day15 Assignment\Day15Assignment BST\Day15Assignment BST\bin\Debug\net6.0\Day15Assignment BST.pdb
+D:\downloads\abc\C# day15 Assignment\Day15Assignment BST\Day15Assignment BST\obj\Debug\net6.0\Day15Assignment BST.csproj.AssemblyReference.cache
+D:\downloads\abc\C# day15 Assignment\Day15Assignment BST\Day15Assignment BST\obj\Debug\net6.0\Day15Assignment BST.GeneratedMSBuildEditorConfig.editorconfig
+D:\downloads\abc\C# day15 Assignment\Day15Assignment BST\Day15Assignment BST\obj\Debug\net6.0\Day15Assignment BST.AssemblyInfoInputs.cache
+D:\downloads\abc\C# day15 Assignment\Day15Assignment BST\Day15Assignment BST\obj\Debug\net6.0\Day15Assignment BST.AssemblyInfo.cs
+D:\downloads\abc\C# day15 Assignment\Day15Assignment BST\Day15Assignment BST\obj\Debug\net6.0\Day15Assignment BST.csproj.CoreCompileInputs.cache
+D:\downloads\abc\C# day15 Assignment\Day15Assignment BST\Day15Assignment BST\obj\Debug\net6.0\Day15Assignment BST.dll
+D:\downloads\abc\C# day15 Assignment\Day15Assignment BST\Day15Assignment BST\obj\Debug\net6.0\ref\Day15Assignment BST.dll
+D:\downloads\abc\C# day15 Assignment\Day15Assignment BST\Day15Assignment BST\obj\Debug\net6.0\Day15Assignment BST.pdb
+D:\downloads\abc\C# day15 Assignment\Day15Assignment BST\Day15Assignment BST\obj\Debug\net6.0\Day15Assignment BST.genruntimeconfig.cache
